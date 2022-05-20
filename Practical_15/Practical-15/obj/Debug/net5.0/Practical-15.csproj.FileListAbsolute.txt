@@ -1,0 +1,87 @@
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\appsettings.json
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.exe
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.deps.json
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.json
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.dev.json
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\ref\Practical-15.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.pdb
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.AssemblyReference.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfoInputs.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfo.cs
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\staticwebassets\Practical-15.StaticWebAssets.Manifest.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\staticwebassets\Practical-15.StaticWebAssets.xml
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\scopedcss\bundle\Practical-15.styles.css
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.RazorTargetAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CopyComplete
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\ref\Practical-15.dll
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.pdb
+C:\Users\rikesh\source\repos\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.genruntimeconfig.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.StaticWebAssets.xml
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.exe
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.deps.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.dev.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\ref\Practical-15.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Practical-15.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.AssemblyReference.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfoInputs.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfo.cs
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\scopedcss\bundle\Practical-15.styles.css
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\staticwebassets\Practical-15.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CopyComplete
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\ref\Practical-15.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-15\Practical-15\obj\Debug\net5.0\Practical-15.genruntimeconfig.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.StaticWebAssets.xml
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.exe
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.deps.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.runtimeconfig.dev.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Practical-15.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\scopedcss\bundle\Practical-15.styles.css
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\staticwebassets\Practical-15.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\refint\Practical-15.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\Practical-15.genruntimeconfig.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical_15\Practical-15\obj\Debug\net5.0\ref\Practical-15.dll
