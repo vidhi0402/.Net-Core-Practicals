@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vidhi\\Desktop\\Asp.net Core\\Practical_15\\Practical-15\\Practical-15.csproj",
+      "projectUniqueName": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_15\\Practical-15\\Practical-15.csproj",
       "projectName": "Practical-15",
-      "projectPath": "C:\\Users\\vidhi\\Desktop\\Asp.net Core\\Practical_15\\Practical-15\\Practical-15.csproj",
+      "projectPath": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_15\\Practical-15\\Practical-15.csproj",
       "packagesPath": "C:\\Users\\vidhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vidhi\\Desktop\\Asp.net Core\\Practical_15\\Practical-15\\obj\\",
+      "outputPath": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_15\\Practical-15\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
